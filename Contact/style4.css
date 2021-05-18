@@ -31,6 +31,20 @@ main {
   padding: 0 40px;
   box-sizing: border-box;
 }
+.bajs {
+  justify-content: space-between;
+  display: inline-block;
+  width: 50%;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+li {
+  display: inline-block;
+  width: 50%;
+  white-space: nowrap;
+  text-decoration: none;
+}
 a:hover {
   color: aqua;
 }
