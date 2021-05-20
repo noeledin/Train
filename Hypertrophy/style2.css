@@ -42,6 +42,7 @@ h1 {
   text-align: center;
   margin: 80px 0;
   white-space: nowrap;
+  margin-left: -10%;
 }
 .images li {
   display: inline-block;
@@ -53,7 +54,7 @@ h1 {
   max-width: 100%;
 }
 article {
-  color: rgb(65, 66, 66);
+  color: rgb(32, 32, 32);
 }
 h2.h2s {
   margin-top: 40px;
