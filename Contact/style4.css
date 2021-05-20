@@ -31,12 +31,14 @@ main {
   padding: 0 40px;
   box-sizing: border-box;
 }
+.me2 {
+  text-align: center;
+  margin-top: 3%;
+  font-size: 40px;
+  color: rgb(65, 66, 66);
+}
 .bajs {
-  justify-content: space-between;
-  display: inline-block;
-  width: 50%;
-  white-space: nowrap;
-  text-decoration: none;
+  margin-left: 25%;
 }
 
 li {
@@ -47,4 +49,8 @@ li {
 }
 a:hover {
   color: aqua;
+}
+img.hej1 {
+  width: 100%;
+  height: auto;
 }
