@@ -55,3 +55,17 @@ h2 {
 a:hover {
   color: aqua;
 }
+div {
+  text-align: center;
+  font-size: 40px;
+  }
+  body {
+    width: 100%;
+  }
+  article {
+    color: rgb(32, 32, 32);
+  }
+  .psh{
+    margin-top: 40px;
+    font-size: 40px;
+  }
