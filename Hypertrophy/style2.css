@@ -59,7 +59,7 @@ article {
 h2.h2s {
   margin-top: 40px;
 }
-h2.psh {
+.psh {
   margin-top: 40px;
 }
 img {
@@ -80,4 +80,12 @@ h2 {
 }
 a:hover {
   color: aqua;
+}
+.pull{
+  font-size: 60px;
+  margin-top: 40px;
+}
+.leg{
+  margin-top: 40px;
+  font-size: 60px;
 }

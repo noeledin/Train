@@ -49,9 +49,6 @@ main {
 h1 {
   font-size: 40px;
 }
-h2 {
-  font-size: 30px;
-}
 a:hover {
   color: aqua;
 }
@@ -65,7 +62,25 @@ div {
   article {
     color: rgb(32, 32, 32);
   }
-  .psh{
-    margin-top: 40px;
-    font-size: 40px;
+  
+  .ett{
+    font-size: 30px;
   }
+ h2{
+font-size: 60px;
+}
+.psh{
+  margin-top: 40px;
+}
+.h2s{
+font-size: 25px;
+margin-top: 40px;
+}
+.pull{
+  font-size: 60px;
+  margin-top: 40px;
+}
+.leg{
+  font-size: 60px;
+  margin-top: 40px;
+}
