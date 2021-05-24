@@ -48,8 +48,10 @@ li {
   text-decoration: none;
 }
 a:hover {
-  color: aqua;
+  color: rgb(12, 14, 14);
+  font-weight: bold;
 }
+
 img.hej1 {
   width: 100%;
   height: auto;

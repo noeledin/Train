@@ -79,8 +79,10 @@ h2 {
   margin-bottom: 40px;
 }
 a:hover {
-  color: aqua;
+  color: rgb(12, 14, 14);
+  font-weight: bold;
 }
+
 .pull{
   font-size: 60px;
   margin-top: 40px;
